@@ -1,2 +1,2 @@
 var nym=50;
-var string="Hello flatter earth";
+var string="Hello flat earth";
